@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_gallery_eql_harmonic.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_gallery_eql_harmonic.py:
+        Click :ref:`here <sphx_glr_download_gallery_eql_harmonic.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_gallery_eql_harmonic.py:
 
 
 Gridding and upward continuation
@@ -154,7 +156,7 @@ computational load (both in terms of time and memory).
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  17.755 seconds)
+   **Total running time of the script:** ( 0 minutes  19.038 seconds)
 
 
 .. _sphx_glr_download_gallery_eql_harmonic.py:
@@ -167,13 +169,13 @@ computational load (both in terms of time and memory).
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: harmonic.py <harmonic.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: harmonic.ipynb <harmonic.ipynb>`
 

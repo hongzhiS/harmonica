@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_sample_data_earth_geoid.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_sample_data_earth_geoid.py:
+        Click :ref:`here <sphx_glr_download_sample_data_earth_geoid.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_sample_data_earth_geoid.py:
 
 
 Earth Geoid
@@ -71,7 +73,7 @@ EIGEN-6C4 [Forste_etal2014]_.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.476 seconds)
+   **Total running time of the script:** ( 0 minutes  0.469 seconds)
 
 
 .. _sphx_glr_download_sample_data_earth_geoid.py:
@@ -84,13 +86,13 @@ EIGEN-6C4 [Forste_etal2014]_.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: earth_geoid.py <earth_geoid.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: earth_geoid.ipynb <earth_geoid.ipynb>`
 

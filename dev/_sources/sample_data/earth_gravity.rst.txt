@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_sample_data_earth_gravity.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_sample_data_earth_gravity.py:
+        Click :ref:`here <sphx_glr_download_sample_data_earth_gravity.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_sample_data_earth_gravity.py:
 
 
 Earth Gravity
@@ -84,13 +86,13 @@ harmonic model EIGEN-6C4 [Forste_etal2014]_.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: earth_gravity.py <earth_gravity.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: earth_gravity.ipynb <earth_gravity.ipynb>`
 

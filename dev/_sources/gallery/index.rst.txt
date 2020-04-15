@@ -104,6 +104,26 @@ Equivalent Layers
    :hidden:
 
    /gallery/eql/harmonic
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The curvature of the Earth must be taken into account when gridding and processing magnetic or ...">
+
+.. only:: html
+
+ .. figure:: /gallery/eql/images/thumb/sphx_glr_harmonic_spherical_thumb.png
+
+     :ref:`sphx_glr_gallery_eql_harmonic_spherical.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /gallery/eql/harmonic_spherical
 .. raw:: html
 
     <div class="sphx-glr-clear"></div>
